@@ -1,0 +1,382 @@
+body{
+    background-color: #ffffff;
+    border-style: solid;
+      border-color: #075204;
+    }
+    
+    .wrapper{
+     width: 100%;
+     height:100%;
+     left: 0px;
+    top: 0px;
+    position: absolute;
+    background-color: #ffffff;
+    
+    }
+    
+    .cinza{
+        width: 100%;
+        height:15%;
+        left: 0px;
+       top: 0px;
+       position: relative;
+       background-color: #ffffff;
+       
+       }
+       .inicio{
+        position: absolute;
+       
+        color: #075204;
+        width: 10%;
+        height: 5%;
+        left: 30%;
+        top: 0%;
+        font-family: Georgia, 'Times New Roman', Times, serif ;
+        
+       }
+    
+       .Consumo{
+        top: 1700px;
+        position: absolute;
+        font-size: 40px;
+        left: 600px;
+        color: #ffffff;
+        border-radius: 10px;
+        border-color: #bf8d2c;
+        background-color: #bf8d2c;
+        
+       }
+    
+       .link{
+        color: #bf8d2c;
+       }
+    
+       .linkverde{
+        color: #bf8d2c;
+        font-size: 25px;
+       }
+    
+       .inicio2{
+           font-size: 21px;
+           
+    
+           
+       }
+    
+       .onu{
+        font-size: 21px;
+        background-color: #bf8d2c;
+        position: absolute;
+        left: 850px;
+        top: 13px;
+        color: #ffffff;
+        border: 10px solid #bf8d2c;
+        border-radius: 5px;
+       }
+    
+       .sabermais{
+        font-size: 21px;
+        
+        position: absolute;
+        left: 1300px;
+        top: 15px;
+        color: green;
+        font-size: 21px;
+        
+       }
+    
+    
+       .logo{
+        background-image: url(../Imagens/odslogo.jpg);
+        position: absolute;
+        left: 1090px;
+    
+       }
+    
+       
+    
+    
+      
+       
+    
+       .amarela{
+        width: 115px;
+        height:115px;
+        left: 0px;
+       top: 0px;
+       position: absolute;
+       background-image: url(../Imagens/12.png);
+       background-size: cover;
+        left: 20px;
+        border: 5px solid #000000;
+        border-radius: 5px;
+       }
+    
+      
+    
+       .azul{
+        width: 15%;
+        height:85%;
+        left: 0px;
+       top: 0px;
+       position: relative;
+       background-color: #0a50e6;
+       }
+    
+       .violeta{
+        width: 100%;
+        height:290.3%;
+        right: 0px;
+        top: 15%;
+        position: absolute;
+        background-color: #ffffff;
+        border: 5px solid rgb(0, 0, 0);
+        border-radius: 5px;
+       }
+    
+       .violeta2{
+        width: 150%;
+        height:370.3%;
+        right: 0px;
+        top: 15%;
+        position: absolute;
+        background-color: #ffffff;
+        border: 5px solid rgb(0, 0, 0);
+        border-radius: 5px;
+       }
+    
+       .ODS{
+        margin-left: 40px;
+        top: 100px;
+        display:block ;
+        position: relative;
+        font-size: 120px;
+        color: #bf8d2c;
+        
+       }
+    
+       .ODS2{
+        margin-left: 825px;
+        top: 100px;
+        display:block ;
+        position: relative;
+        font-size: 120px;
+        color: #bf8d2c;
+        
+       }
+    
+       .prato{
+        position: relative;
+        top: 1200px;
+        left: 20px;
+    
+       }
+       
+    
+       .curiosidades{
+        color: #075204;
+        position: absolute;
+        top: 1030px;
+        font-size: 50px;
+        left: 600px;
+    
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       }
+    
+       .subtitulo{
+        position: absolute;
+        top: 390px;
+        left: 100px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        border-style: solid;
+      border-color: black;
+       
+       }
+    
+       .comendo{
+        position: relative;
+        top: 1370px;
+        left: 500px;
+       }
+    
+       .lermais{
+        position: relative;
+        top: 1460px;
+        left: 750px;
+        font-size: 25px;
+       }
+    
+       .subtitulo2{
+        position: absolute;
+        top: 390px;
+        left: 890px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        border-style: solid;
+      border-color: black;
+       
+       }
+    
+       .basica{
+        position: absolute;
+        top: 1870px;
+        left: 580px;
+        font-size: 25px;
+        background-color: #bf8d2c;
+        border-radius: 5px;
+        border: 7px solid #bf8d2c;
+        width: 900px;
+       }
+    
+       
+    
+       .melancia{
+        position: absolute;
+        left: 950px;
+    top: 1100px;
+       }
+       .vocesabia{
+        position: relative;
+        top: 910px;
+        font-size: 40px;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        left: 100px;
+      }
+      
+      
+    
+      
+    
+      .diper{
+        position: relative;
+        top: 1200px;
+        left: 600px;
+      }
+    
+       .odslogo{
+        left: 1430px;
+        position: absolute;
+    
+       }
+    
+    
+       .imagem{
+        
+        position: absolute;
+        left: 1100px;
+        top: 150px;
+       }
+    
+       
+       .video{
+        position: absolute;
+        top: 1050px;
+        left: 200px;
+       }
+       
+       .textinho{
+        left: 990px;
+        position:absolute;
+        top: 1020px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 20px;
+       }
+    
+       .linha{
+        top: 800px;
+        position: relative;
+        right: 10px;
+       }
+       
+    
+    
+       
+    
+       .texto{
+        position: relative;
+        top: 1600px;
+        font-size: 19px;
+       font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+       left: 20px;
+       }
+       .vermelha{
+        width: 101.6%;
+        height:40%;
+        left: -31px;
+        bottom: -39.6%;
+        position: absolute;
+        background-color: #bf8d2c;
+        
+       }
+       .vermelha2{
+        width: 100%;
+        height:30%;
+        left: 0px;
+        bottom: 0%;
+        position: absolute;
+        background-color: #bf8d2c;
+        top: 3010px;
+       }
+    
+       .link{
+        color: #ffffff;
+       }
+    
+    
+    
+       .imagem2{
+        top: 40px;
+        left: 20px;
+        position: relative;
+        width: 100%;
+       }
+    
+       .consumo{
+        left: 200px;
+        position: absolute;
+        font-size: 25px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: #ffffff;
+        top: 100px;
+        border: #bf8d2c;
+        bottom: 10%;
+       }
+    
+    
+       .github{
+            left: 200px;
+            position: absolute;
+            
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            color: #ffffff;
+            top: 170px;
+       }
+    
+       .insta{
+        left: 140px;
+            position: absolute;
+            
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            color: #ffffff;
+            top: 170px;
+       }
+    
+       .twitter{
+        left: 80px;
+            position: absolute;
+            
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            color: #ffffff;
+            top: 170px;
+       }
+    
+       .alunos{
+        top: 1-0px;
+        left: 1200px;
+        position: relative;
+        font-size: 25px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       }
+    
+    
+       
+    
